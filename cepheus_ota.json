@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1656115224,
-      "filename": "PixelOS_cepheus-12.1-20220625-0000.zip",
-      "id": "tNJUrRTQMSp4ZuAESW29L82CSj28SB",
+      "datetime": 1656386825,
+      "filename": "PixelOS_cepheus-12.1-20220628-0327.zip",
+      "id": "sMgZ3MN6DRCx4LXfrX75HnVpVLYwmm",
       "romtype": "unofficial",
-      "size": 1902485717,
-      "url": "https://example.com/ota-package.zip",
+      "size": 1905939913,
+      "url": "https://drive.google.com/u/1/uc?id=1eA3LrmBYSzkUMOaMgjTSXc170hkR5o67&export=download",
       "version": "12.1"
     }
   ]
