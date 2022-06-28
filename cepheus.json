@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "balgxmr",
+            "telegram": "https://t.me/baLgxmr",
+            "github": "https://github.com/baalgx"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi 9",
+    "device_display_codename": "cepheus",
+    "public_download": "",
+    "last_updated": "17 June 2022",
+    "private_download_tag": "",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-12-1-unofficial-cepheus-pixelos-stable-18-06-2022.4458805/",
+    "customRecoveryRequired": true
+}
